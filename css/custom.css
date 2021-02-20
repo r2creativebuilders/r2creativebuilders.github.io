@@ -1,3 +1,12 @@
 .contact-data {
     text-align: center;
 }
+
+.single-feature img {
+    height: 60px;
+}
+
+.contact-data a {
+    color: gray;
+    text-decoration: underline;
+}
